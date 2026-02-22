@@ -30,6 +30,10 @@ The viewer integrates multiple AI models and interactive visualization modes for
 ---
 ### 🏠 Home Page Preview
 
+https://github.com/user-attachments/assets/d908e439-2fc5-4c0a-afca-b5fa8fb55024
+
+
+
 Here’s how the main interface of the Signal Viewer looks:
 
 <img width="1876" height="860" alt="Screenshot 2025-10-11 022524" src="https://github.com/user-attachments/assets/1053632c-122e-443c-be33-453c36f16971" />
@@ -57,7 +61,15 @@ Here’s how the main interface of the Signal Viewer looks:
 https://github.com/user-attachments/assets/1f8cae3d-d468-4c2f-a2fd-790cdaea2af0
 
 ### another abnormal signal: LVH 
-<img width="1891" height="879" alt="Screenshot 2025-10-11 173936" src="https://github.com/user-attachments/assets/a91ccbcb-f20a-4951-b42b-4d1be1d1d545" />
+<img width="1891" height="879" alt="Screenshot 202
+
+https://github.com/user-attachments/assets/9be3696b-22e6-4ee2-ada4-cfd6e8d4362b
+
+
+
+https://github.com/user-attachments/assets/e8228253-29de-4e24-b939-2c2c1968d976
+
+5-10-11 173936" src="https://github.com/user-attachments/assets/a91ccbcb-f20a-4951-b42b-4d1be1d1d545" />
 
 ---
 
