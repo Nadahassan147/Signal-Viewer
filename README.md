@@ -30,13 +30,9 @@ The viewer integrates multiple AI models and interactive visualization modes for
 ---
 ### 🏠 Home Page Preview
 
-https://github.com/user-attachments/assets/d908e439-2fc5-4c0a-afca-b5fa8fb55024
-
-
-
 Here’s how the main interface of the Signal Viewer looks:
 
-<img width="1876" height="860" alt="Screenshot 2025-10-11 022524" src="https://github.com/user-attachments/assets/1053632c-122e-443c-be33-453c36f16971" />
+<img width="1876" height="860" alt="500076424-1053632c-122e-443c-be33-453c36f16971" src="https://github.com/user-attachments/assets/b76df7ba-cb66-47f6-84e4-bc0b49f52960" />
 
  
 
@@ -61,21 +57,13 @@ Here’s how the main interface of the Signal Viewer looks:
 https://github.com/user-attachments/assets/1f8cae3d-d468-4c2f-a2fd-790cdaea2af0
 
 ### another abnormal signal: LVH 
-<img width="1891" height="879" alt="Screenshot 202
-
-https://github.com/user-attachments/assets/9be3696b-22e6-4ee2-ada4-cfd6e8d4362b
-
-
-
-https://github.com/user-attachments/assets/e8228253-29de-4e24-b939-2c2c1968d976
-
-5-10-11 173936" src="https://github.com/user-attachments/assets/a91ccbcb-f20a-4951-b42b-4d1be1d1d545" />
+<img width="1891" height="879" alt="2" src="https://github.com/user-attachments/assets/b1b2efeb-97a1-4344-bd22-0271dc271cd6" />
 
 ---
 
 ## EEG demo:
-<img width="1882" height="913" alt="Screenshot 2025-10-11 173622" src="https://github.com/user-attachments/assets/072f3820-1d16-419d-a1d2-ca37d40e791b" />
-<img width="1893" height="883" alt="Screenshot 2025-10-11 173807" src="https://github.com/user-attachments/assets/2f7b88b4-fa0d-4197-af05-d06706c2e09f" />
+<img width="1882" height="913" alt="3" src="https://github.com/user-attachments/assets/ea5a0d8d-b608-4ae7-8c45-920f2141c80f" />
+<img width="1893" height="883" alt="4" src="https://github.com/user-attachments/assets/87d1a54d-0b12-47c7-9c69-80d4529052e8" />
 
 ---
 ##  2) Acoustic Signals Viewer:
@@ -88,7 +76,10 @@ https://github.com/user-attachments/assets/e8228253-29de-4e24-b939-2c2c1968d976
 
   
 
-https://github.com/user-attachments/assets/0c624394-fd13-47d5-a047-c15473fbe8d7
+
+https://github.com/user-attachments/assets/c2c5288b-508b-4743-ac9f-7100bb8362b9
+
+
 
 
 ---
@@ -99,7 +90,10 @@ https://github.com/user-attachments/assets/0c624394-fd13-47d5-a047-c15473fbe8d7
 - The user can control both parameters, and a spectrogram is displayed to visualize the frequency shift as the car approaches and moves away.
 
 
-https://github.com/user-attachments/assets/821903a0-b514-41f8-a358-9ce49b9b1b24
+
+
+https://github.com/user-attachments/assets/b8e62b07-8158-4491-bd5a-cc1dc9d4eb3b
+
 
 
 ---
@@ -109,14 +103,17 @@ https://github.com/user-attachments/assets/821903a0-b514-41f8-a358-9ce49b9b1b24
 This module detects drones from `WAV audio files` using `YAMNet` for feature extraction and a custom classifier, it enables users to upload audio and view predictions
 
 
-https://github.com/user-attachments/assets/6ac30b0b-c72d-4ced-aeac-317559399c1e
+
+
+https://github.com/user-attachments/assets/5763a966-4414-4542-ae5f-2692dade08b0
+
 
 
 ---
 ## 3)SAR
-<img width="816" height="896" alt="Screenshot 2025-10-10 185152" src="https://github.com/user-attachments/assets/c3867432-e5c8-4bd2-95ee-56c904ab44f3" />
+<img width="816" height="896" alt="5" src="https://github.com/user-attachments/assets/9f62939b-7d54-44ff-adac-5593bc688b0c" />
 
-<img width="812" height="507" alt="Screenshot 2025-10-10 185158" src="https://github.com/user-attachments/assets/eb6c8a3b-68f4-4104-b1d4-0e1266e8d606" />
+<img width="812" height="507" alt="6" src="https://github.com/user-attachments/assets/95893702-2bac-4e61-a02f-bd350b0ea62f" />
 
 
 ---
