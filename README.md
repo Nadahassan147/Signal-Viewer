@@ -54,7 +54,10 @@ Here’s how the main interface of the Signal Viewer looks:
   - `Reoccurrence graph` — cumulative scatter plot of channel pairs (chx vs chy) to reveal recurring patterns.
 ---
 ## ECG demo:
-https://github.com/user-attachments/assets/1f8cae3d-d468-4c2f-a2fd-790cdaea2af0
+
+
+https://github.com/user-attachments/assets/e8155c7f-c491-41f0-8878-0ea98ab3b1b4
+
 
 ### another abnormal signal: LVH 
 <img width="1891" height="879" alt="2" src="https://github.com/user-attachments/assets/b1b2efeb-97a1-4344-bd22-0271dc271cd6" />
